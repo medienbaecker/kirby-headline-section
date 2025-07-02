@@ -29,8 +29,8 @@ sections:
     type: pages
   footer_fields:
     type: fields
-  fields:
-    footer_text:
-      label: Footer Text
-      type: text
+    fields:
+      footer_text:
+        label: Footer Text
+        type: text
 ```
